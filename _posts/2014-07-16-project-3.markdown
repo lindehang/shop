@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: mmexport1411449545943.jpg
+alt: image-alt
+time: April 2014
+pose: 海澜之家
+price: 130
+description: 外皮里布，天然橡胶，值得拥有！
+
+---

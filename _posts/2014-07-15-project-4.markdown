@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 4
+date: 2014-07-15
+img: mmexport1411449548601.jpg
+alt: image-alt
+time: April 2014
+pose: 海澜之家
+price: 130 RMB
+description: 秋季时尚新款，亲近自然
+
+---

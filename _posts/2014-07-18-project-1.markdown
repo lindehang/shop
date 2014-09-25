@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: mmexport1411449539870.jpg
+alt: image-alt
+time: April 2014
+pose: 木林森
+price: 110 RMB
+description: 经典，精致
+
+---
